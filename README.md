@@ -1,6 +1,6 @@
 # GLSL Check
 
-> *Because you can't just ship shaders as part of your exe in $CURRENT_YEAR!*
+> *Because you can't just compile shaders as part of your exe in $CURRENT_YEAR!*
 
 Utility program for catching compile errors of OpenGL shaders. Intended to be part of
 a build pipeline or CI.
